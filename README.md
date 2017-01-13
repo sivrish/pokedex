@@ -1,5 +1,5 @@
 # Pokedex
-This is an iOS 10 app built using Swift 3, PokeAPI, JSON which gives you details about every Pokemon and it's evolution.   
+This is an iOS 10 app built using Swift 3, PokeAPI, JSON and Alamofire which gives you details about every Pokemon and it's evolution.   
 ## Installation
 Use pokedex.xcworkspace
 ## Screenshots
